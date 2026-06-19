@@ -32,8 +32,19 @@ Expense Tracker System is a Java-based desktop application developed using Java,
 * AddExpense.java
 * Report.java
 
-## Author
+## Screenshots
+### Login Screen
+![Login Screen](login.png)
+### Dashboard
+![Dashboard](Dashboard.png)
+### Add Income
+![Add Income](income.png)
+### Add Expense
+![Add Expense](expense.png)
+### Report
+![Report](report.png)
 
+## Author
 Minakshi Sharma
 BCA Student | DAV Centenary College, Faridabad
 
